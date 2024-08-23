@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Smith explains difficult concepts very clearly and is always willing to help during office hours."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Excellent professor! Makes learning physics fun and engaging."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Brown has a lot of knowledge, but his lectures can be a bit dry at times."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Very knowledgeable and approachable. I learned a lot in her class."
+      },
+      {
+        "professor": "Dr. William Wilson",
+        "subject": "Computer Science",
+        "stars": 2,
+        "review": "The course material was interesting, but Dr. Wilson's teaching style left much to be desired."
+      },
+      {
+        "professor": "Dr. Olivia Martin",
+        "subject": "English",
+        "stars": 5,
+        "review": "Dr. Martin is passionate about literature and it shows in her teaching. Highly recommend!"
+      },
+      {
+        "professor": "Dr. James Lee",
+        "subject": "History",
+        "stars": 4,
+        "review": "Dr. Lee has a deep understanding of historical events and makes the subject come alive."
+      },
+      {
+        "professor": "Dr. Hannah Clark",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "The material is interesting, but Dr. Clark's lectures can be a bit unstructured."
+      },
+      {
+        "professor": "Dr. Christopher Lewis",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "One of the best professors I've had! Makes complex concepts easy to understand."
+      },
+      {
+        "professor": "Dr. Isabella Walker",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Walker is very engaging and creates an inclusive classroom environment."
+      },
+      {
+        "professor": "Dr. Daniel Hall",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "His lectures are thought-provoking, but sometimes difficult to follow."
+      },
+      {
+        "professor": "Dr. Ava Allen",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Allen is very passionate about art and it reflects in her teaching."
+      },
+      {
+        "professor": "Dr. Matthew King",
+        "subject": "Engineering",
+        "stars": 2,
+        "review": "The material is challenging, but Dr. King doesn't explain it very well."
+      },
+      {
+        "professor": "Dr. Sophia Wright",
+        "subject": "Business",
+        "stars": 5,
+        "review": "Dr. Wright is an excellent professor who brings real-world experience into the classroom."
+      },
+      {
+        "professor": "Dr. David Scott",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. Scott is very knowledgeable and encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Mia Young",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Dr. Young has interesting insights, but her lectures can be a bit slow."
+      },
+      {
+        "professor": "Dr. Benjamin Adams",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Very passionate about the subject and makes learning about the environment engaging."
+      },
+      {
+        "professor": "Dr. Abigail Nelson",
+        "subject": "Music",
+        "stars": 4,
+        "review": "Dr. Nelson is very talented and her passion for music is contagious."
+      },
+      {
+        "professor": "Dr. Joseph Carter",
+        "subject": "Geography",
+        "stars": 3,
+        "review": "Dr. Carter's class is informative, but his lectures can be quite monotonous."
+      },
+      {
+        "professor": "Dr. Charlotte Mitchell",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Incredibly inspiring professor who makes literature come alive."
+      }
+    ]
+  }
